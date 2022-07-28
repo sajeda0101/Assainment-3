@@ -3,3 +3,26 @@
     object-fit: cover;
     filter: brightness(60%);
 }
+.con2{
+    margin-top: 100px;
+}
+.card-change{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.back-cng{
+    background-color: aliceblue;
+}
+.btn-1{
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.con-3{
+    margin-top: 100px;
+}
+.fa-star.fill{
+    color: yellow;
+}
+.con-4{
+    margin-top: 100px;
+}
